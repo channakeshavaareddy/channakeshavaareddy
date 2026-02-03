@@ -1,22 +1,30 @@
-# Hi 👋 I'm Your Name
+# Hi 👋 I'm Your Channakeshava Reddy
 
-📊 **Data Analyst** | SQL | Python | Power BI | Excel  
-I analyze data to uncover insights, trends, and opportunities that drive better decisions.
-
----
-
-## 🔍 About Me
-- 🎯 Aspiring / Junior Data Analyst  
-- 📈 Passionate about turning raw data into meaningful insights  
-- 🧹 Strong in data cleaning, analysis, and visualization  
-- 📊 Love building dashboards and telling stories with data  
+📊 **Data Analyst** | SQL | Python | Power BI | Excel 
+I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
 
 ---
 
-## 🛠 Skills & Tools
+##  About Me
+
+-  Graduate from **AMC Engineering College** (VTU) with a specialization in **Artificial Intelligence & Machine Learning**
+-  Interested in **Data and Business Analytics** and solving real-world problems using data
+-  Strong foundation through **coursework, certifications, and hands-on projects**
+-  Skilled in **MS Excel, MySQL, and Python**
+-  Experience with **Pandas, NumPy, Matplotlib**
+-  Data visualization using **Power BI** and **Tableau**
+-  Hands-on experience in **data cleaning, analysis, and exploratory data analysis (EDA)**
+-  Continuous learner, staying updated with new tools and technologies in analytics
+-  Actively seeking **entry-level Analyst, Data Analyst, and Business Analyst roles** where I can apply data-driven problem-solving skills
+
+ 
+
+---
+
+##  Skills & Tools
 
 **Languages & Libraries**
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL)
 - Python (Pandas, NumPy)
 
 **Data Visualization**
@@ -26,12 +34,12 @@ I analyze data to uncover insights, trends, and opportunities that drive better 
 - Seaborn
 
 **Other Tools**
-- Excel (Pivot Tables, VLOOKUP, XLOOKUP)
+- MS Excel (Pivot Tables, VLOOKUP, XLOOKUP)
 - Git & GitHub
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 📈 Sales Data Analysis
 - Analyzed 50,000+ sales records to identify revenue trends
