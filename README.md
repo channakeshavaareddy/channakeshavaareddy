@@ -1,7 +1,7 @@
 # Hi 👋 I'm Your Channakeshava Reddy
 
 📊 **Data Analyst** | SQL | Python | Power BI | Excel 
-I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
+- I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
 
 ---
 
