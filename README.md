@@ -47,33 +47,34 @@
 - Data-Driven XI Selection: Used insights to form a balanced Playing XI with strong batting and bowling.
 
 **Tools:** Python, Power BI, MS Excel, Pandas 
-🔗 Project Link: https://github.com/channakeshavaareddy/Cricket-Data-Analytics-.git
+- Project Link: https://github.com/channakeshavaareddy/Cricket-Data-Analytics-.git
 
 ---
 
-### 🏥 Healthcare Data Analysis
-- Performed exploratory data analysis on patient records
-- Identified factors affecting readmission rates
-- Created visual insights using Python  
+### Super Store Sales Dashboard
+- Comprehensive Sales Analysis: Collected and cleaned retail sales data from multiple sources for accurate insights.
+- Dynamic Power BI Dashboard: Built interactive dashboards with key metrics like sales, profit, and orders, using visuals and filters.
+- Actionable Business Insights: Enabled data-driven decisions by analyzing performance across regions, categories, and customer segments.  
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-🔗 Project Link: https://github.com/yourusername/healthcare-data-analysis
-
----
-
-### 🛒 Customer Segmentation
-- Segmented customers based on purchasing behavior
-- Used clustering techniques for business insights  
-
-**Tools:** Python, SQL  
-🔗 Project Link: https://github.com/yourusername/customer-segmentation
+**Tools:** MS Excel, Power BI 
+- Project Link: https://github.com/channakeshavaareddy/Super-Store-Sales-Dashboard.git
 
 ---
 
-## 📚 Currently Learning
+### Designing a Sales Dashboard in Excel
+- Interactive Excel Dashboard: Designed a dynamic dashboard to analyze sales, profit, and shipping data using Pivot Tables, charts, and user controls.
+- Multi-Dimensional Insights: Enabled month-wise, product-wise, and region-wise performance analysis for informed decision-making.
+- User-Friendly & Actionable: Simplified sales analysis with filters and KPIs, allowing quick insights and data-driven business decisions.  
+
+**Tools:** MS Excel, Pivot Tables and Pivot Charts  
+- Project Link: https://github.com/channakeshavaareddy/Designing-a-Sales-Dashboard-in-Excel.git
+
+---
+
+##  Currently Learning
 - Advanced SQL (CTEs, Window Functions)
 - Data Storytelling
-- Machine Learning Basics
+- Machine Learning and Deep Learning
 
 ---
 
@@ -83,9 +84,6 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourname@email.com
+- LinkedIn: https://www.linkedin.com/in/channakeshavareddy
+- Email: channakeshava0204@gmail.com
 
----
-
-⭐ *If you like my work, consider starring my repositories!*
