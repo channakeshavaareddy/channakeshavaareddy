@@ -1,6 +1,6 @@
 # Hi,  I'm Your Channakeshava Reddy
 
- ##  Analyst | MySQL | Python | Power BI | MS Excel 
+ ##  Analyst - | MySQL | Python | Power BI | MS Excel 
  - I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
 
 ---
