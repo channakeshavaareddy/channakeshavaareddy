@@ -1,6 +1,6 @@
-# Hi 👋 I'm Your Channakeshava Reddy
+# Hi,  I'm Your Channakeshava Reddy
 
- ###  Analyst | MySQL | Python | Power BI | MS Excel 
+ ##  Analyst | MySQL | Python | Power BI | MS Excel 
  - I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
 
 ---
@@ -78,13 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=channakeshavaareddy&show_icons=true&theme=default)
-
-
----
-
-## 📫 Contact Me
+##  Contact Me
 - LinkedIn: https://www.linkedin.com/in/channakeshavareddy
 - Email: channakeshava0204@gmail.com
 
