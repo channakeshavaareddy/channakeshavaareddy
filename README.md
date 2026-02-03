@@ -1,7 +1,7 @@
 # Hi 👋 I'm Your Channakeshava Reddy
 
-📊 **Data Analyst** | SQL | Python | Power BI | Excel 
-- I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
+ ** Analyst** | SQL | Python | Power BI | Excel 
+-- I analyze data using Excel, SQL, Python, and BI tools to uncover insights and trends that support better, data-driven decisions.
 
 ---
 
@@ -41,13 +41,13 @@
 
 ##  Featured Projects
 
-### 📈 Sales Data Analysis
-- Analyzed 50,000+ sales records to identify revenue trends
-- Cleaned and transformed raw data using SQL
-- Built interactive dashboard in Power BI  
+### Cricket Data Analytics  
+- End-to-End Analytics: Scraped, cleaned, and structured ICC World Cup 2022 data using Python, Pandas, and Power Query.
+- Power BI Dashboards: Built interactive dashboards with DAX and strong data modeling to analyze player performance. 
+- Data-Driven XI Selection: Used insights to form a balanced Playing XI with strong batting and bowling.
 
-**Tools:** SQL, Power BI, Excel  
-🔗 Project Link: https://github.com/yourusername/sales-data-analysis
+**Tools:** Python, Power BI, MS Excel, Pandas 
+🔗 Project Link: https://github.com/channakeshavaareddy/Cricket-Data-Analytics-.git
 
 ---
 
