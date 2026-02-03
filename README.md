@@ -46,7 +46,7 @@
 - Power BI Dashboards: Built interactive dashboards with DAX and strong data modeling to analyze player performance. 
 - Data-Driven XI Selection: Used insights to form a balanced Playing XI with strong batting and bowling.
 
-**Tools:** Python, Power BI, MS Excel, Pandas 
+  **Tools:** Python, Power BI, MS Excel, Pandas 
 - Project Link: https://github.com/channakeshavaareddy/Cricket-Data-Analytics-.git
 
 ---
@@ -56,7 +56,7 @@
 - Dynamic Power BI Dashboard: Built interactive dashboards with key metrics like sales, profit, and orders, using visuals and filters.
 - Actionable Business Insights: Enabled data-driven decisions by analyzing performance across regions, categories, and customer segments.  
 
-**Tools:** MS Excel, Power BI 
+  **Tools:** MS Excel, Power BI 
 - Project Link: https://github.com/channakeshavaareddy/Super-Store-Sales-Dashboard.git
 
 ---
@@ -66,7 +66,7 @@
 - Multi-Dimensional Insights: Enabled month-wise, product-wise, and region-wise performance analysis for informed decision-making.
 - User-Friendly & Actionable: Simplified sales analysis with filters and KPIs, allowing quick insights and data-driven business decisions.  
 
-**Tools:** MS Excel, Pivot Tables and Pivot Charts  
+  **Tools:** MS Excel, Pivot Tables and Pivot Charts  
 - Project Link: https://github.com/channakeshavaareddy/Designing-a-Sales-Dashboard-in-Excel.git
 
 ---
